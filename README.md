@@ -1,6 +1,8 @@
 fez-autoprefixer
 ================
 
+[![NPM version](https://badge.fury.io/js/fez-autoprefixer.png)](http://badge.fury.io/js/fez-autoprefixer)
+
 [Autoprefixer](https://github.com/ai/autoprefixer) plugin for [Fez](http://fez.github.io) build system.
 
 ## Install
