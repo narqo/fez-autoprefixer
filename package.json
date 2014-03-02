@@ -1,0 +1,31 @@
+{
+  "name": "fez-autoprefixer",
+  "version": "0.1.0",
+  "description": "Autoprefixer for Fez",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/narqo/fez-autoprefixer.git"
+  },
+  "keywords": [
+    "fez",
+    "autoprefixer"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/narqo/fez-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/narqo/fez-autoprefixer",
+  "dependencies": {
+    "autoprefixer": "~1.1.20140302",
+    "bluebird": "~1.0.7"
+  },
+  "devDependencies": {
+    "fez": "~1.0.8",
+    "fez-concat": "~0.1.2"
+  }
+}
